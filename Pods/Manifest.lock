@@ -1,0 +1,20 @@
+PODS:
+  - SABlurImageView (5.0.0)
+  - VisualEffectView (3.1.0)
+
+DEPENDENCIES:
+  - SABlurImageView
+  - VisualEffectView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SABlurImageView
+    - VisualEffectView
+
+SPEC CHECKSUMS:
+  SABlurImageView: 8640919c27208ada65e279ec17d7428408fedf89
+  VisualEffectView: 922eedf8d7d7e776a367ac11e0a4d4a0b2ba3545
+
+PODFILE CHECKSUM: 6bd22f23e76973c45106edf3ffc7a710d1cb06d0
+
+COCOAPODS: 1.5.3

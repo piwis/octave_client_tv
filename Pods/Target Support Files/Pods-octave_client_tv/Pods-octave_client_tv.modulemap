@@ -1,0 +1,6 @@
+framework module Pods_octave_client_tv {
+  umbrella header "Pods-octave_client_tv-umbrella.h"
+
+  export *
+  module * { export * }
+}
